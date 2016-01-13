@@ -1,0 +1,3876 @@
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 64    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 125    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 59    Index: 125    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 59    Index: 125    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 24    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 102    Index: 27    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 102    Index: 120    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 47    Index: 79    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 5    Index: 89    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 34    Index: 119    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 69    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 116    Index: 68    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 103    Index: 11    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 104    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 32    Index: 98    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 5    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 67    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 17    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 62    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 4    Index: 112    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 27    Index: 38    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 113    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 100    Index: 60    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 7    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 44    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 76    Index: 114    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 21    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 12    Index: 34    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 56    Index: 64    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 59    Index: 125    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 24    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 102    Index: 120    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 109    Index: 19    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 119    Index: 43    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 19    Index: 114    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 77    Index: 29    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 84    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 27    Index: 34    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 23    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 20    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 11    Index: 117    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 80    Index: 115    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 88    Index: 111    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 57    Index: 36    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 117    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 49    Index: 90    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 16    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 98    Index: 122    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 11    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 29    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 65    Index: 91    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 106    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 116    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 67    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 90    Index: 68    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 9    Index: 25    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 55    Index: 12    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 119    Block Offset: 0       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 39    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 85    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 82    Index: 69    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 57    Index: 125    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 73    Index: 105    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 44    Index: 9    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 122    Index: 14    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 8    Index: 0    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 125    Block Offset: 3       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 24    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 93    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 47    Index: 79    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 113    Index: 35    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 34    Index: 119    Block Offset: 0       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 69    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 116    Index: 68    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 95    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 96    Index: 127    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 72    Index: 49    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 96    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 10    Index: 74    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 54    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 110    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 88    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 76    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 121    Index: 125    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 98    Index: 89    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 79    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 105    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 73    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 110    Index: 20    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 81    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 22    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 68    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 94    Index: 116    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 24    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 73    Index: 74    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 118    Index: 90    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 110    Index: 29    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 118    Index: 2    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 78    Index: 14    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 109    Index: 49    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 30    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 66    Index: 47    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 49    Index: 102    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 53    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 2    Index: 94    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 29    Index: 70    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 83    Index: 116    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 120    Index: 96    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 63    Index: 46    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 76    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 16    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 43    Index: 88    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 76    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 121    Index: 125    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 98    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 79    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 115    Index: 105    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 114    Index: 73    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 110    Index: 20    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 81    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 123    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 68    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 94    Index: 116    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 24    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 73    Index: 74    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 118    Index: 90    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 110    Index: 29    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 2    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 78    Index: 14    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 74    Index: 48    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 97    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 56    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 32    Index: 124    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 17    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 121    Index: 116    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 115    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 8    Index: 111    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 28    Index: 123    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 87    Index: 105    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 66    Index: 33    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 96    Index: 23    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 9    Index: 73    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 44    Index: 32    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 66    Index: 81    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 64    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 76    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 116    Index: 35    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 41    Index: 80    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 41    Index: 105    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 75    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 37    Index: 118    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 3    Index: 115    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 39    Index: 46    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 4    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 26    Index: 89    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 37    Index: 86    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 28    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 80    Index: 89    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 69    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 26    Index: 74    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 2    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 26    Index: 46    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 3    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 93    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 126    Index: 82    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 127    Block Offset: 1       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 74    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 77    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 4    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 112    Index: 74    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 43    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 37    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 114    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 11    Index: 116    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 21    Index: 79    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 55    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 73    Index: 50    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 29    Index: 62    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 88    Index: 47    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 64    Index: 3    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 5    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 118    Index: 114    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 46    Index: 41    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 47    Index: 80    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 72    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 33    Index: 119    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 29    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 40    Index: 11    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 50    Index: 76    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 82    Index: 60    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 23    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 4    Index: 23    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 37    Index: 75    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 92    Index: 16    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 46    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 127    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 8    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 78    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 23    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 37    Index: 75    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 92    Index: 16    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 46    Index: 124    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 127    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 45    Index: 8    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 78    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 45    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 62    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 81    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 127    Index: 38    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 112    Index: 10    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 22    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 9    Index: 84    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 83    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 119    Index: 26    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 61    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 98    Index: 46    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 12    Index: 84    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 27    Index: 54    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 6    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 76    Index: 70    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 73    Index: 33    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 46    Index: 36    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 76    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 55    Index: 10    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 45    Index: 8    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 33    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 12    Index: 102    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 85    Index: 29    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 74    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 18    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 119    Index: 92    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 16    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 119    Index: 125    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 116    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 36    Index: 85    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 3    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 54    Index: 102    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 103    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 23    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 37    Index: 75    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 92    Index: 16    Block Offset: 0       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 46    Index: 124    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 127    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 45    Index: 8    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 78    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 100    Index: 7    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 28    Index: 17    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 102    Index: 4    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 23    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 37    Index: 75    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 92    Index: 16    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 46    Index: 124    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 127    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 45    Index: 8    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 78    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 4    Index: 23    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 37    Index: 75    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 92    Index: 16    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 46    Index: 124    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 127    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 45    Index: 8    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 78    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 5    Index: 37    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 86    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 72    Index: 19    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 105    Index: 76    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 19    Index: 81    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 10    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 22    Index: 65    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 34    Index: 69    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 52    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 54    Index: 58    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 19    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 51    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 90    Block Offset: 0       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 36    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 37    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 86    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 72    Index: 19    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 105    Index: 76    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 19    Index: 81    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 10    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 22    Index: 65    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 69    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 81    Index: 52    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 54    Index: 58    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 19    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 36    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 37    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 86    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 72    Index: 19    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 105    Index: 76    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 19    Index: 81    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 10    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 22    Index: 65    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 69    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 81    Index: 52    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 54    Index: 58    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 19    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 91    Index: 62    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 83    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 75    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 116    Index: 73    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 22    Index: 30    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 41    Index: 6    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 4    Index: 36    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 35    Index: 116    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 26    Index: 38    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 60    Index: 74    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 122    Index: 123    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 100    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 3    Index: 94    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 36    Index: 118    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 52    Index: 37    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 48    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 98    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 103    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 92    Index: 7    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 33    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 14    Index: 23    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 24    Index: 104    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 14    Index: 88    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 111    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 25    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 54    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 38    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 2    Index: 53    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 114    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 0    Index: 95    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 118    Index: 79    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 32    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 116    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 74    Index: 34    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 107    Index: 78    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 110    Index: 92    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 77    Index: 26    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 115    Index: 30    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 5    Index: 37    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 93    Index: 86    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 72    Index: 19    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 105    Index: 76    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 19    Index: 81    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 10    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 22    Index: 65    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 69    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 81    Index: 52    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 54    Index: 58    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 111    Index: 19    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 112    Index: 101    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 38    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 22    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 83    Index: 80    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 23    Index: 51    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 94    Index: 66    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 21    Index: 71    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 87    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 45    Index: 103    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 97    Index: 45    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 58    Index: 84    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 112    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 13    Index: 75    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 4    Index: 63    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 14    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 61    Index: 7    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 33    Index: 43    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 59    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 19    Index: 50    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 88    Index: 126    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 23    Index: 82    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 11    Index: 99    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 40    Index: 110    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 99    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 83    Index: 34    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 34    Index: 8    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 80    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 44    Index: 76    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 49    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 30    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 102    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 46    Index: 78    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 16    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 121    Index: 53    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 13    Index: 79    Block Offset: 0       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 49    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 90    Index: 77    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 117    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 43    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 26    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 60    Index: 98    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 43    Index: 82    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 90    Index: 95    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 106    Index: 99    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 127    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 14    Index: 22    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 64    Index: 95    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 51    Index: 25    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 2    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 35    Index: 3    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 67    Index: 89    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 101    Index: 62    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 114    Index: 66    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 33    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 44    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 97    Index: 64    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 35    Index: 107    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 105    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 66    Index: 51    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 13    Index: 21    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 24    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 61    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 41    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 62    Index: 121    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 123    Index: 115    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 103    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 127    Index: 14    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 88    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 84    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 82    Index: 26    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 40    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 71    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 110    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 94    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 71    Index: 28    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 87    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 24    Index: 106    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 78    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 76    Index: 73    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 30    Index: 54    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 96    Index: 13    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 12    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 9    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 118    Index: 20    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 5    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 22    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 85    Index: 113    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 82    Index: 6    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 81    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 105    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 82    Index: 26    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 38    Index: 94    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 76    Index: 73    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 118    Index: 20    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 81    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 101    Index: 55    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 66    Index: 69    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 127    Index: 32    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 12    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 15    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 39    Index: 113    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 87    Index: 79    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 99    Index: 76    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 85    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 11    Index: 99    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 40    Index: 110    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 99    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 83    Index: 34    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 34    Index: 8    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 104    Index: 80    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 44    Index: 76    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 7    Index: 49    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 35    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 43    Index: 30    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 43    Index: 102    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 46    Index: 78    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 117    Index: 16    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 121    Index: 53    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 13    Index: 79    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 49    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 81    Index: 117    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 43    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 26    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 60    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 43    Index: 82    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 90    Index: 95    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 106    Index: 99    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 17    Index: 127    Block Offset: 2       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 14    Index: 22    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 64    Index: 95    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 51    Index: 25    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 7    Index: 2    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 3    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 67    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 114    Index: 66    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 113    Index: 33    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 44    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 97    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 107    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 105    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 66    Index: 51    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 13    Index: 21    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 24    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 61    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 123    Index: 41    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 62    Index: 121    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 55    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 66    Index: 69    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 32    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 117    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 31    Index: 42    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 82    Index: 26    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 51    Index: 25    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 7    Index: 2    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 3    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 67    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 114    Index: 66    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 113    Index: 33    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 44    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 97    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 107    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 104    Index: 105    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 66    Index: 51    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 13    Index: 21    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 24    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 61    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 123    Index: 41    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 62    Index: 121    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 55    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 66    Index: 69    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 32    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 117    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 31    Index: 42    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 71    Index: 71    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 42    Index: 110    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 24    Index: 106    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 95    Index: 78    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 12    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 22    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 85    Index: 113    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 105    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 15    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 127    Index: 14    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 90    Index: 77    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 71    Index: 28    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 30    Index: 54    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 18    Index: 5    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 48    Index: 105    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 39    Index: 113    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 87    Index: 79    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 99    Index: 76    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 20    Index: 85    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 127    Index: 14    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 90    Index: 77    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 71    Index: 28    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 30    Index: 54    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 18    Index: 5    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 85    Index: 113    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 48    Index: 105    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 51    Index: 25    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 7    Index: 2    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 3    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 67    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 114    Index: 66    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 113    Index: 33    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 44    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 97    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 107    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 105    Block Offset: 1       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 51    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 13    Index: 21    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 24    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 53    Index: 61    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 41    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 62    Index: 121    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 101    Index: 55    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 32    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 12    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 88    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 82    Index: 26    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 38    Index: 94    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 76    Index: 73    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 12    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 118    Index: 20    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 81    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 105    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 38    Index: 94    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 76    Index: 73    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 118    Index: 20    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 81    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 84    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 42    Index: 110    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 95    Index: 78    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 96    Index: 13    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 84    Index: 9    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 124    Index: 40    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 16    Index: 87    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 96    Index: 13    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 124    Index: 40    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 16    Index: 87    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 96    Index: 13    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 127    Index: 14    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 90    Index: 77    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 40    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 51    Index: 25    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 7    Index: 2    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 35    Index: 3    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 67    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 114    Index: 66    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 113    Index: 33    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 56    Index: 44    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 97    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 107    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 105    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 51    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 13    Index: 21    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 24    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 61    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 41    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 62    Index: 121    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 55    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 127    Index: 32    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 12    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 84    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 71    Index: 28    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 23    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 61    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 41    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 62    Index: 121    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 101    Index: 55    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 32    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 117    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 88    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 42    Index: 110    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 16    Index: 87    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 95    Index: 78    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 1    Index: 23    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 61    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 41    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 62    Index: 121    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 123    Index: 115    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 55    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 32    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 117    Index: 12    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 82    Index: 26    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 16    Index: 87    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 96    Index: 13    Block Offset: 1       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 12    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 105    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 64    Block Offset: 0       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 59    Index: 125    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 81    Index: 23    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 51    Index: 25    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 7    Index: 2    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 35    Index: 3    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 67    Index: 89    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 114    Index: 66    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 113    Index: 33    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 56    Index: 44    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 97    Index: 64    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 35    Index: 107    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 104    Index: 105    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 51    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 13    Index: 21    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 24    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 1    Index: 23    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 61    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 41    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 62    Index: 121    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 123    Index: 115    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 103    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 101    Index: 55    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 66    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 127    Index: 32    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 117    Index: 12    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 88    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 42    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 84    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 17    Index: 24    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 102    Index: 120    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 47    Index: 79    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 5    Index: 89    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 34    Index: 119    Block Offset: 0       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 93    Index: 69    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 116    Index: 68    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 103    Index: 11    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 104    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 32    Index: 98    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 53    Index: 5    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 67    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 17    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 62    Block Offset: 1       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 4    Index: 112    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 27    Index: 38    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 113    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 100    Index: 60    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 68    Index: 7    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 124    Index: 44    Block Offset: 3       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 76    Index: 114    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 56    Index: 64    Block Offset: 0       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 59    Index: 125    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 24    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 47    Index: 79    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 34    Index: 119    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 103    Index: 11    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 67    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 112    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 27    Index: 38    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 113    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 100    Index: 60    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 68    Index: 7    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 44    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 76    Index: 114    Block Offset: 2       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 59    Index: 125    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 24    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 103    Index: 11    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 125    Index: 104    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 67    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 89    Index: 17    Block Offset: 1       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 112    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 27    Index: 38    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 31    Index: 113    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 100    Index: 60    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 68    Index: 7    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 44    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 114    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 47    Index: 79    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is modified.
+Tag: 34    Index: 119    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 103    Index: 11    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 67    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 112    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 27    Index: 38    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 113    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 100    Index: 60    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 68    Index: 7    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 44    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 76    Index: 114    Block Offset: 2       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 59    Index: 125    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 17    Index: 24    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Write) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 103    Index: 11    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 125    Index: 104    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 67    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 89    Index: 17    Block Offset: 1       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 93    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 102    Index: 120    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 103    Index: 11    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 79    Index: 124    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 5    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 67    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 4    Index: 112    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 27    Index: 38    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 113    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 100    Index: 60    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 68    Index: 7    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 124    Index: 44    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 114    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 56    Index: 64    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 59    Index: 125    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 24    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 47    Index: 79    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 34    Index: 119    Block Offset: 0       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 103    Index: 11    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 67    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 93    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 120    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 5    Index: 89    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 116    Index: 68    Block Offset: 3       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 103    Index: 11    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 79    Index: 124    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 32    Index: 98    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 5    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 67    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 18    Index: 62    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 4    Index: 112    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 27    Index: 38    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 31    Index: 113    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 100    Index: 60    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 68    Index: 7    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 124    Index: 44    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 114    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 108    Index: 93    Block Offset: 3       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 125    Index: 124    Block Offset: 0       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 56    Index: 64    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 59    Index: 125    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 24    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 102    Index: 27    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 75    Index: 93    Block Offset: 3       (Read) miss
+
+Data in the set 0 is modified.
+Tag: 102    Index: 120    Block Offset: 0       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 47    Index: 79    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 38    Index: 36    Block Offset: 2       (Read) miss
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 113    Index: 35    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 5    Index: 89    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 16    Index: 42    Block Offset: 2       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 34    Index: 119    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 89    Index: 42    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 69    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 116    Index: 68    Block Offset: 3       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 20    Index: 36    Block Offset: 1       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 103    Index: 11    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 125    Index: 104    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 79    Index: 124    Block Offset: 2       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 32    Index: 98    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 53    Index: 5    Block Offset: 3       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 75    Index: 67    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 89    Index: 17    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 84    Index: 35    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 62    Block Offset: 1       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 15    Index: 12    Block Offset: 3       (Write) miss
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 18    Index: 5    Block Offset: 1       (Read) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 93    Index: 22    Block Offset: 2       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 85    Index: 113    Block Offset: 1       (Write) miss
+Cache performed a write back. Older block values are written to the memory!
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 48    Index: 105    Block Offset: 3       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 127    Index: 14    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 75    Index: 88    Block Offset: 1       (Write) hit
+
+Data in the set 0 is copied to the cache from memory.
+Tag: 31    Index: 42    Block Offset: 1       (Read) miss
+
+Data in the set 0 is accessed.
+Tag: 17    Index: 84    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 26    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 90    Index: 77    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 124    Index: 40    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 16    Index: 87    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 96    Index: 13    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 15    Index: 12    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 84    Index: 9    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 118    Index: 20    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 18    Index: 5    Block Offset: 1       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 93    Index: 22    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 85    Index: 113    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 82    Index: 6    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 53    Index: 81    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 48    Index: 105    Block Offset: 3       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 124    Index: 40    Block Offset: 2       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 71    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 42    Index: 110    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 38    Index: 94    Block Offset: 1       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 71    Index: 28    Block Offset: 0       (Read) hit
+
+Data in the set 0 is modified.
+Tag: 16    Index: 87    Block Offset: 1       (Write) hit
+
+Data in the set 0 is accessed.
+Tag: 24    Index: 106    Block Offset: 0       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 95    Index: 78    Block Offset: 3       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 76    Index: 73    Block Offset: 2       (Read) hit
+
+Data in the set 0 is accessed.
+Tag: 30    Index: 54    Block Offset: 2       (Read) hit
+
+--Results--
+
+Hit count: 716
+Miss count: 543
+Total count: 1259
+
+Hit rate is: 0.5687053216838761
+Miss rate is: 0.4312946783161239
